@@ -11,6 +11,13 @@ Build an LLM that can:
 - Explain solutions step-by-step
 - Provide hints without giving away full answers
 
+### Roadmap
+
+- [ ] Code problems with test verification
+- [ ] Discussion/lab worksheet problems
+- [ ] Lecture transcript Q&A
+- [ ] Video explanations (multimodal - future)
+
 ## Approach
 
 Using the [Tinker API](https://tinker.thinkingmachines.ai/) for fine-tuning with:
